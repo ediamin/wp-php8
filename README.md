@@ -9,6 +9,7 @@ wp-env requires Docker to be installed and running in your environment.
 
 ## Note
 - The url will be at `http://localhost:8888` by default.
-- Username:Password for the admin = admin:password
+- Username and password for the admin are `admin` and `password`.
+- Put your plugins into `plugins` directory.
 
 For more information and wp-env configs see https://github.com/WordPress/gutenberg/tree/trunk/packages/env
