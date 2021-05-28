@@ -1,0 +1,9 @@
+{
+    "scripts": {
+        "start": "wp-env start --debug --xdebug",
+        "stop": "wp-env stop"
+    },
+    "devDependencies": {
+        "@wordpress/env": "^4.0.4"
+    }
+}
